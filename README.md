@@ -4,7 +4,7 @@
 - Conversion of HE to eV can also be performed.
 - Chemical desciptors available include 
 **1. HOMO (eV)**
-**2. LUMO (eV) **
+**2. LUMO (eV)**
 **3. Ionisation potential(IP) (eV)**
 **4. Electron Affinity (EA) (eV)**
 **5. Energy Gap (EG) (eV)**
